@@ -83,7 +83,7 @@ The current pet adoption landscape faces several critical challenges:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/AryanSinghh07/Paws.git
+   git clone https://github.com/vaibhavi293/Paws.git
    cd paws
 2. **Create and activate a Python virtual environment:**
    Install dependencies
